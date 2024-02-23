@@ -17,7 +17,7 @@ Here are the specific style changes you must make.
 * Links must have underlines removed and their color changed to #69585F
 * The image must have the text wrap up its right side (look up the `float` property).
 * The image must also have a solid gray border and appropriate spacing around it.
-* Everything must have appropriate space around it so that it is easy to read looks nice.
+* Everything must have appropriate space around it so that it is easy to read and looks nice.
 * The subject name and the h1-h2 elements must have the small-caps variant.
 * The bullet points should be circles instead of dots
 
